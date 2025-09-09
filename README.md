@@ -28,22 +28,22 @@ The objective of this project was to leverage **Power BI** to create interactive
 
 ## 📈 Key Insights
 
-### 💰 Finance
+### 💰 Finance View
 - Total Net Sales exceeded **$3.7B** with a **38% Gross Margin**  
 - Early-year sales dips observed, indicating seasonal trends  
 - **Notebooks** and **Desktops** are the strongest contributors  
 
-### 🛒 Sales
+### 🛒 Sales View
 - **North America** leads in revenue contribution, followed by EU and APAC  
 - Strong demand in the **PC division**  
 - Profitable segments identified via **Unit Economics** analysis  
 
-### 📣 Marketing
+### 📣 Marketing View
 - Revenue concentrated in **PC Division** and **Direct Distributor** channel  
 - Market share trends fluctuate, highlighting opportunities for campaigns  
 - Top 5 products and customers generate the majority of business value  
 
-### 🚚 Supply Chain
+### 🚚 Supply Chain View
 - **Forecast Accuracy:** 81%  
 - High forecast errors in **Networking** and **Notebook** segments  
 - **Out of Stock (OOS)** risk is a key challenge  
